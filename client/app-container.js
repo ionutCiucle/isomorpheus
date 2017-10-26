@@ -5,7 +5,7 @@ class AppContainer extends React.Component {
   render() {
     return (
       <div className="app-container">
-        <MyInput label="Transpirational quote here: "/>
+        <MyInput label="Perspirational quote here: "/>
       </div>
     );
   }
